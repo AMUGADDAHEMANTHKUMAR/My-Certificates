@@ -15,7 +15,7 @@ Each certificate showcases the skills and knowledge I’ve gained in different d
 ---
 
 ### 🏆 Pega Certificate (By Harsha Trainings)  
-<img src="./Pega%20Certificate%20By%20Harsha%20Trainings.png" alt="Pega Certificate By Harsha Trainings" width="500"/>  
+<img src="./Pega%20Cerificate%20By%20Harsha%20Trainings.png" alt="Pega Certificate By Harsha Trainings" width="500"/>  
 
 ✔ Earned certification from **Harsha Trainings** in Pega, focusing on real-time scenarios, case management, UI, and workflow automation.  
 
@@ -30,3 +30,4 @@ Each certificate showcases the skills and knowledge I’ve gained in different d
 
 ## 📌 About  
 This repository serves as a collection of my certificates, highlighting my progress and achievements across multiple technologies.  
+
